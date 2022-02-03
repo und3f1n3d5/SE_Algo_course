@@ -1,3 +1,6 @@
+// easy
+
+
 #include <iostream>
 
 using namespace std;
